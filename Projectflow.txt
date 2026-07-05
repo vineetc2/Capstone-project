@@ -1,0 +1,7 @@
+1. Create repo, clone it in local
+2. Create a virtual environment named 'atlas' - conda cretae -n atlas python=3.10
+3. Activate the virtual Environment - conda activate atlas
+4. Pip install cookiecutter
+5. cookiecutter -c v1 https://github.com/drivendata/cookiecutter-data-science
+6. Rename src.models ->src.models
+7. Git add -commit -push
