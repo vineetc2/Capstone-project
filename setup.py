@@ -1,10 +1,7 @@
-from setuptools import find_packages, setup
+from setuptools import setup, find_packages
 
 setup(
-    name='src',
+    name="Capstone-project",
+    version="0.1",
     packages=find_packages(),
-    version='0.1.0',
-    description='This is an end to end mlops project',
-    author='vineet kumar',
-    license='',
 )
