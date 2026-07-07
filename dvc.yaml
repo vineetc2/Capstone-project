@@ -26,7 +26,7 @@ stages:
     params:
     - feature_engineering.max_features
     outs:
-    - data/processed
+    - Data/processed
     - models/vectorizer.pkl
 
   model_building:
