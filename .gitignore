@@ -216,6 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
- local_s3
+ local_s3/
  data/
  models/
