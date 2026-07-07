@@ -12,7 +12,7 @@ uvicorn==0.50.0
 waitress==3.0.2
 
 # AWS
-boto3==1.43.40
+boto3>=1.42.90,<1.43.1
 
 # MLOps
 mlflow==3.14.0
